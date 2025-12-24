@@ -153,5 +153,3 @@ Jika ingin membuat aplikasi web sederhana:
    streamlit run app.py
    ```
    Aplikasi akan terbuka di browser pada `http://localhost:8501`.
-
-Selamat mencoba! Jika ada pertanyaan atau ingin pengembangan lebih lanjut, silakan hubungi.
